@@ -1,0 +1,1 @@
+{"version":3,"sources":["_general.scss"],"names":[],"mappings":"AAAA;EACI,kBAAkB;EAClB,mBAAmB,EACtB","file":"main.css","sourcesContent":["#site_wrap{\n    max-width: 1400px;\n    position: relative;\n}\n"],"sourceRoot":"/source/"}
